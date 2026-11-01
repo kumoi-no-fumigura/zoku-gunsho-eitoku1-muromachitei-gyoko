@@ -361,6 +361,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 9,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-eitoku1-muromachitei-gyoko",
   "work": "永徳元年室町亭行幸和歌集",
@@ -373,7 +377,7 @@
   "blocks": 9,
   "chars": 1522,
   "poems": 15,
-  "yaku": 0,
+  "yaku": 9,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T00:09:37+09:00"
